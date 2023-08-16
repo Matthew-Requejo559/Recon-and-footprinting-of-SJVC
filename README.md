@@ -1,6 +1,6 @@
 # Recon-and-footprinting-of-SJVC
 
-## This is a recon and footprinting assignment I completed during university. It is on a real entity. All info is public, and as such, I find no qualms with making this assignment, and its findings, public. 
+## This is a recon and footprinting assignment I completed during university. It is on a real entity. All info is public, and as such, I find no qualms with making this assignment, and its findings, public. It should be noted that some of the ip address are also outdated now. 
 
 ![page1](https://github.com/Matthew-Requejo559/Recon-and-footprinting-of-SJVC/assets/136190678/44c3a4d0-70c4-4427-ad52-59b14ca23e43)
 ![page2](https://github.com/Matthew-Requejo559/Recon-and-footprinting-of-SJVC/assets/136190678/297caf7b-23a2-4660-883c-e1bef998baad)
